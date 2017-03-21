@@ -1,0 +1,22 @@
+body {background-color: #cc946e;
+text-align: center;
+}
+
+h1 {color: black;
+font-family: serif;
+border-style: outset;
+    
+}
+.border {
+    border-style: outset;
+outline-color: black;
+
+}
+
+img {
+    border-style: dotted
+    
+}
+img {
+    border-radius: 50%;
+}
